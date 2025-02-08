@@ -2,7 +2,7 @@
   "name": "spades",
   "displayName": "Spades",
   "description": "An Asexual-styled VS Code Color Theme inspired by the Microsoft Palenight Theme",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "publisher": "redwilliams",
   "icon": "spades.png",
   "author": {
@@ -50,6 +50,11 @@
         "label": "Spades: Benoit",
         "uiTheme": "vs-dark",
         "path": "./themes/SpadesBenoit-color-theme.json"
+      },
+      {
+        "label": "Spades: Jay",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SpadesJay-color-theme.json"
       }
     ]
   }

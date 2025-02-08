@@ -45,6 +45,7 @@ Read the [VSC Extension Quickstart Guide](https://github.com/Red-CS/Spades/vsc-e
 ## Collaborators
 
 - [Red Williams (Red-CS)](https://www.github.com/Red-CS)
+- [Sockenlord](https://github.com/Sockenlord)
 
 ## Contribution
 
